@@ -1,0 +1,39 @@
+# Build artifacts
+triangle_counter
+*.o
+*.obj
+*.out
+*.exe
+
+# Archives and packaged submission artifacts
+*.zip
+*.tar
+*.tar.gz
+
+# Generated assignment packaging folder
+23i-0655-C/
+
+# Benchmark/results outputs
+results/*.csv
+results/analysis/*.png
+results/analysis/aggregated_results.csv
+results/analysis/summary.md
+
+# Decompressed dataset directories/files
+# Keep original compressed datasets and any tiny sanity data tracked manually.
+datasets/**/*.txt/
+datasets/facebook/
+
+# OS/Windows metadata
+*~
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+*:Zone.Identifier
+
+# Editor/project-local settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
