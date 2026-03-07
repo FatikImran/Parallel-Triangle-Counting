@@ -186,5 +186,3 @@ Generated outputs:
 - Source code and build system: `src/`, `Makefile`
 - Reproducibility scripts: `scripts/run_benchmarks.sh`, `scripts/analyze_latest.sh`, `scripts/analyze_results.py`
 - Current experimental outputs: `results/` and `results/analysis/`
-- Report draft template/content: `REPORT.md`
-- Submission checklist (renaming/packaging steps): `SUBMISSION_CHECKLIST.md`
